@@ -12,12 +12,12 @@
 
 Evidências dos testes:
 
-![alt text](image-1.png)
+![alt text](img01-mlstudio.PNG)
 
-![alt text](image-2.png)
+![alt text](img02-mlstudio.PNG)
 
-![alt text](image-3.png)
+![alt text](img03-mlstudio.PNG)
 
-![alt text](image-4.png)
+![alt text](img04-mlstudio.PNG)
 
-![alt text](image-5.png)
+![alt text](img05-mlstudio.PNG)
